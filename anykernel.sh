@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=回 Kernel For Redmi Note 10 Pro/Pro Max/12 Pro 4G
+kernel.string=random ass kernel for Redmi 9(lancelot)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
