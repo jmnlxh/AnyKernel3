@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=random ass kernel for Redmi 9(lancelot)
+kernel.string= Ǝ kernel for Redmi 9(lancelot)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
