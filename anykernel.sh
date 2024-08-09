@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string= Ǝ kernel for Redmi 9(lancelot)
+kernel.string= Ǝ  | KernelSU 1.0.1 (11936) kernel for Redmi 9(lancelot)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
